@@ -1,1 +1,1 @@
-# convenienceofpropertylocation
+Evaluating and Analysing the Convenience of Property Location Based on 15-minute City Paradigm: a Case Study of London
